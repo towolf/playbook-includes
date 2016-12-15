@@ -1,5 +1,5 @@
 ---
 
 - include: deploy/foo.yml
-- include: deploy/bar.yml
+- include: bar.yml
 - include: deploy/baz.yml
