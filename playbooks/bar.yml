@@ -3,4 +3,4 @@
 - name: my play
   hosts: localhost
   vars_files:
-    - ../includes/myvars.yml
+    - includes/myvars.yml
