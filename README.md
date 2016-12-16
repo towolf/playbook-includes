@@ -1,6 +1,8 @@
 # playbook-includes
     test case for relative playbook includes with relative vars_files includes
 
+https://github.com/ansible/ansible/issues/19398
+
 ```
 .
 ├── playbooks
